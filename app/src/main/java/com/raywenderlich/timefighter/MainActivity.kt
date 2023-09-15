@@ -1,6 +1,5 @@
 package com.raywenderlich.timefighter
 
-import android.content.IntentSender.OnFinished
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.CountDownTimer
@@ -12,7 +11,6 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
-//import com.raywenderlich.timefighter.BuildConfig
 
 //Creates score variable and initializes it to 0
 private var score = 0
